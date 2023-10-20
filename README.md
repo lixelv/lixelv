@@ -6,14 +6,14 @@
 
 <!-- GRS (Light Mode) -->
 <div align="center">
-  <a href="https://github.com/lixelv#gh-dark-mode-only" align="left">
+  <a href="https://github.com/lixelv#gh-light-mode-only" align="left">
     <img
       src="https://github-readme-stats-steel-omega.vercel.app/api?username=lixelv&show_icons=true&hide_border=true&number_format=long&rank_icon=percentile#gh-light-mode-only"
       alt="My Github stats"
       height="370"
     />
   </a>
-  <a href="https://github.com/lixelv#gh-dark-mode-only" align="right">
+  <a href="https://github.com/lixelv#gh-light-mode-only" align="right">
     <img
       src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=lixelv#gh-light-mode-only"
       alt="My Language stats"
