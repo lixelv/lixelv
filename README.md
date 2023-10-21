@@ -19,8 +19,8 @@
 - 👀 I'm intrested to write code on rust on python. I know python on hight level, but on rust I'm starting (my limit is to write parser of json api on mysql_async (on `21.10.2023`))
 - 🌱 I’m currently learning rust. Want to start learn nosql db-s. And css and javascript.
 - 💞️ I’m looking to collaborate on telegram bots, parsers and other stuff.
-- 📫 How to reach me [telegram](https://t.me/simeonlimon) [vk](https://vk.com/lixel_v)
 
-![Metrics](https://raw.githubusercontent.com/lixelv/lixelv/github-metrics/github-metrics.svg)
-![Notable contributions](https://raw.githubusercontent.com/lixelv/lixelv/github-metrics/notable.svg)
-![Achievements](https://raw.githubusercontent.com/lixelv/lixelv/github-metrics/achievements.svg)
+<img 
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=lixelv&layout=compact&width=512&hight=100"
+/>
