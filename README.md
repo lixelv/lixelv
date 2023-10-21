@@ -13,6 +13,7 @@
 
 ## I am Simon
 
-- 👀 I'm intrested to write code on rust on python. I know python on hight level, but on rust I'm starting (my limit is to write parser of json api on mysql_async (on `21.10.2023`))
-- 🌱 I’m currently learning rust. Want to start learn nosql db-s. And css and javascript.
-- 💞️ I’m looking to collaborate on telegram bots, parsers and other stuff.
+- 👀 I'm have passion about rust, that is elegancy magic!
+- 🧑‍💻 I'm know python on very hight level, like I know all base, and I can do a lot on python, check my reps.
+- 🌱 I’m currently learning rust (best language ever!). I'ma learn redis (nosql db).
+- 🧑‍🏫 I like to teach peoples for new stuff, like coding. And if you want to get the "teacher" for free, you can contact me, and I'm always glad to help!.
