@@ -1,42 +1,25 @@
-- 👋 Hi, I’m @lixelv. I am 16 years old teen.
-- 👀 I’m interested in programming on python. Also I am writing parsers and telegram bots. I've been interested in space dynamic, yo-yo playing and 
-- 🌱 I’m currently learning python, sql. Want to start learn rust and c++. Also css and javascript.
-- 💞️ I’m looking to collaborate on telegram bots, parsers.
+# Hi there 👋
+<div alighn="left>
+![telegram](https://img.shields.io/badge/Telegram%20-lixelv-lightblue?logo=Telegram&link=https%3A%2F%2Ft.me%2Flixelv)
+![vk](https://img.shields.io/badge/Vk%20-lixelv-blue?logo=Vk&link=https%3A%2F%2Fvk.com%2Flixel_v)
+![ds](https://img.shields.io/badge/Discord%20-lixelv-purple?logo=Discord)
+
+<a href="https://api.daily.dev/get?r=lixelv" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/287c516827214399862a65d385d34b11.png?r=6k9"
+    />
+  </a>
+</div>
+
+## I am Simon
+
+- 👀 I'm intrested to write code on rust on python. I know python on hight level, but on rust I'm starting (my limit is to write parser of json api on mysql_async (on `21.10.2023`))
+- 🌱 I’m currently learning rust. Want to start learn nosql db-s. And css and javascript.
+- 💞️ I’m looking to collaborate on telegram bots, parsers and other stuff.
 - 📫 How to reach me [telegram](https://t.me/simeonlimon) [vk](https://vk.com/lixel_v)
 
-<!-- GRS (Light Mode) -->
-<div align="center">
-  <a href="https://github.com/lixelv#gh-light-mode-only" align="left">
-    <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api?username=lixelv&show_icons=true&hide_border=true&number_format=long&rank_icon=percentile#gh-light-mode-only"
-      alt="My Github stats"
-      height="370"
-    />
-  </a>
-  <a href="https://github.com/lixelv#gh-light-mode-only" align="right">
-    <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=lixelv#gh-light-mode-only"
-      alt="My Language stats"
-      height="370"
-    />
-  </a>
-</div>
-
-<!-- GRS (Dark Mode) -->
-<div align="center">
-  <a href="https://github.com/lixelv#gh-dark-mode-only" align="left">
-    <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api?username=lixelv&show_icons=true&icon_color=2d77dc&title_color=2d77dc&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=percentile#gh-dark-mode-only"
-      alt="My Github stats"
-      height="370"
-    />
-  </a>
-  <a href="https://github.com/lixelv#gh-dark-mode-only" align="right">
-    <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=lixelv&title_color=2d77dc&text_color=ffffff&bg_color=0d1117#gh-dark-mode-only"
-      alt="My Language stats"
-      height="370"
-    />
-  </a>
-</div>
-
+![Metrics](https://raw.githubusercontent.com/lixelv/lixelv/github-metrics/github-metrics.svg)
+![Notable contributions](https://raw.githubusercontent.com/lixelv/lixelv/github-metrics/notable.svg)
+![Achievements](https://raw.githubusercontent.com/lixelv/lixelv/github-metrics/achievements.svg)
