@@ -1,8 +1,9 @@
 # Hi there 👋
-<div alighn="left">
+
 ![telegram](https://img.shields.io/badge/Telegram%20-lixelv-lightblue?logo=Telegram&link=https%3A%2F%2Ft.me%2Flixelv)
 ![vk](https://img.shields.io/badge/Vk%20-lixelv-blue?logo=Vk&link=https%3A%2F%2Fvk.com%2Flixel_v)
 ![ds](https://img.shields.io/badge/Discord%20-lixelv-purple?logo=Discord)
+<div alighn="left">
 
 <a href="https://api.daily.dev/get?r=lixelv" target="_blank">
     <img
