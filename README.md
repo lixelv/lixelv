@@ -1,5 +1,5 @@
 # Hi there 👋
-<div alighn="left>
+<div alighn="left">
 ![telegram](https://img.shields.io/badge/Telegram%20-lixelv-lightblue?logo=Telegram&link=https%3A%2F%2Ft.me%2Flixelv)
 ![vk](https://img.shields.io/badge/Vk%20-lixelv-blue?logo=Vk&link=https%3A%2F%2Fvk.com%2Flixel_v)
 ![ds](https://img.shields.io/badge/Discord%20-lixelv-purple?logo=Discord)
@@ -11,7 +11,7 @@
       src="https://api.daily.dev/devcards/287c516827214399862a65d385d34b11.png?r=6k9"
     />
   </a>
-</div>
+  </div>
 
 ## I am Simon
 
