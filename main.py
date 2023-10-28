@@ -38,4 +38,7 @@ a = """# Hi there 👋
 ![Notable contributions](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/notable.svg)
 ![Achievements](https://raw.githubusercontent.com/omBratteng/omBratteng/github-metrics/achievements.svg)"""
 a = a.replace("omBratteng", 'lixelv').replace("Ole-Martin Bratteng", "Simon")
+
+a = a
+
 print(a)
