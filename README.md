@@ -5,6 +5,7 @@
 
 ## Languages and Tools
 ![skills](https://skillicons.dev/icons?i=vscode,github,replit,python,bots,fastapi,rust,html)
+<img class="hidden dark:inline-block" src="/users/lixelv/badges/large?logo=false">
 
 ## I am Simon
 
