@@ -5,6 +5,7 @@
 
 ## Languages and Tools
 ![skills](https://skillicons.dev/icons?i=vscode,github,replit,python,bots,fastapi,rust,html)
+
 ![codewars](https://www.codewars.com//users/lixelv/badges/small?logo=true)
 
 ## I am Simon
