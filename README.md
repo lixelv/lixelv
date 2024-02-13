@@ -3,7 +3,7 @@
 ![ds](https://img.shields.io/badge/Discord%20-lixelv-purple?logo=Discord)
 ![vk](https://img.shields.io/badge/Vk%20-lixelv-blue?logo=Vk&link=https%3A%2F%2Fvk.com%2Flixel_v)
 
-![codewars](https://www.codewars.com//users/lixelv/badges/large)
+![codewars](https://www.codewars.com//users/lixelv/badges/small)
 
 ## Languages and Tools
 ![skills](https://skillicons.dev/icons?i=vscode,github,replit,python,bots,fastapi,rust,html)
