@@ -8,7 +8,7 @@
 ![codewars](https://www.codewars.com//users/lixelv/badges/small)
 
 ## Languages and Tools
-![skills](https://skillicons.dev/icons?i=py,fastapi,js,ts,svelte,tailwind,docker,postgres,githubactions,vercel,ubuntu,vscode,bots&perline=6)
+![skills](https://skillicons.dev/icons?i=py,fastapi,js,ts,svelte,tailwind,docker,postgres,githubactions,vercel,ubuntu,bots&perline=6)
 
 ## I am Simon
 
