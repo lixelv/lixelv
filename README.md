@@ -1,9 +1,8 @@
-## Hi, I'm Simon!
+## Hi, I'm Simon! [![wakatime](https://wakatime.com/badge/user/14787fe3-8231-4120-8754-60e109472c0e.svg)](https://wakatime.com/@14787fe3-8231-4120-8754-60e109472c0e)
 
-![telegram](https://img.shields.io/badge/Telegram%20-lixelv-lightblue?logo=Telegram&link=https%3A%2F%2Ft.me%2Flixelv)
+I'm fullstack, devops, bot creator. If you need help, contact with me, I'll do my best!
 
-[![wakatime](https://wakatime.com/badge/user/14787fe3-8231-4120-8754-60e109472c0e.svg)](https://wakatime.com/@14787fe3-8231-4120-8754-60e109472c0e)
-
+#### Also some info about me:
 ```js
 const lixelv = {
   name: "Simon Efremenko",
@@ -12,5 +11,3 @@ const lixelv = {
   tools: [Svelte, SvelteKit, Aiogram, Postgresql, Docker, DockerCompose, Ubuntu]
 }
 ```
-
-Need help with code, ping me!
