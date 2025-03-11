@@ -5,9 +5,14 @@ I'm fullstack, devops, bot creator. If you need help, contact with me, I'll do m
 #### Also some info about me:
 ```js
 const lixelv = {
-  name: "Simon Efremenko",
-  email: "simonefremenko@gmail.com",
-  code: [Javascript, Typescript, HTML, CSS, Python],
-  tools: [Svelte, SvelteKit, Aiogram, Postgresql, Docker, DockerCompose, Ubuntu]
+    name: "Simon Efremenko",
+    email: "simonefremenko@gmail.com",
+    skills: {
+        languages: [Javascript, Typescript, HTML, CSS, Python],
+        frameworks: [Svelte, SvelteKit, FastAPI, Aiogram],
+        databases: [PostgreSQL, MySQL, SQLite, PocketBase, Redis],
+        devops: [Docker, DockerCompose, GitHubActions, Ubuntu]
+    }
 }
+
 ```
