@@ -6,7 +6,7 @@ I'm fullstack, devops, bot creator. If you need help, contact with me, I'll do m
 ```js
 const lixelv = {
     name: "Simon Efremenko",
-    email: "simonefremenko@gmail.com",
+    email: "dev@lixelv.com",
     skills: {
         languages: [Python, Go, Javascript, Typescript, HTML, CSS],
         frameworks: [Svelte, SvelteKit, FastAPI, Aiogram],
