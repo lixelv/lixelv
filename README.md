@@ -8,7 +8,7 @@ const lixelv = {
     name: "Simon Efremenko",
     email: "simonefremenko@gmail.com",
     skills: {
-        languages: [Javascript, Typescript, HTML, CSS, Python],
+        languages: [Python, Go, Javascript, Typescript, HTML, CSS],
         frameworks: [Svelte, SvelteKit, FastAPI, Aiogram],
         databases: [PostgreSQL, MySQL, SQLite, PocketBase, Redis],
         devops: [Docker, DockerCompose, GitHubActions, Ubuntu]
